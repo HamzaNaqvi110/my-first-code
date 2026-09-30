@@ -8,3 +8,5 @@ int = 4
 int2 = 10
 sum = int + int2
 print (sum)
+age = 20
+print (age)
