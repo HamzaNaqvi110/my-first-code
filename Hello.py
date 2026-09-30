@@ -11,5 +11,8 @@ print (float_age)
 
 name = "hamza"
 
-print(name[-1:0])
+
 print(name[0:-1])
+print (name[1:4])
+print (name[-4:-1])
+
